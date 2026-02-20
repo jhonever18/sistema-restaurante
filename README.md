@@ -1,44 +1,59 @@
-# 🍽 Sistema de Restaurante - PHP & MySQL
+# 🍽 Restaurant Management System - PHP & MySQL
 
-Sistema web desarrollado en PHP y MariaDB para la gestión de un restaurante.
+A web-based restaurant management system developed using PHP, MariaDB, and JavaScript.  
+This system allows administrators and cashiers to manage daily restaurant operations efficiently.
 
-## 🚀 Funcionalidades
-- Login de administrador
-- Gestión de usuarios
-- Gestión de clientes
-- Gestión de pedidos
-- Gestión de platos
-- Facturación
-- Métodos de pago
+---
 
-## 🛠 Tecnologías utilizadas
-- PHP
-- MariaDB
-- HTML
-- CSS
-- JavaScript
-- XAMPP
+## 🚀 Features
+- Admin login authentication
+- User management
+- Customer management
+- Order management
+- Dish management
+- Invoice generation
+- Payment methods management
 
-## 🗄 Base de Datos
+---
 
-1. Crear una base de datos llamada `restaurante`
-2. Importar el archivo `database/restaurante.sql`
+## 🛠 Technologies Used
+- PHP (Backend)
+- MariaDB / MySQL (Database)
+- JavaScript (Client-side functionality)
+- HTML5
+- CSS3
+- XAMPP (Local development environment)
 
-## 🔑 Credenciales de prueba
-Usuario: admin
-Gmail: admin@gmail.com
-Contraseña: 123
+---
 
-Usuario: cajero
-Gmail: maria@gmail.com
-Contraseña: mary
+## 🗄 Database Setup
+1. Create a database named `restaurante`
+2. Import the file `database/restaurante.sql`
 
-## 💻 Instalación
+---
 
-1. Clonar el repositorio
-2. Importar la base de datos
-3. Configurar la conexión en `conexion.php`
-4. Ejecutar en servidor local (XAMPP)
+## 🔑 Test Credentials
 
-## 👨‍💻 Autor
+### Admin
+- Username: admin
+- Email: admin@gmail.com
+- Password: 123
+
+### Cashier
+- Username: cajero
+- Email: maria@gmail.com
+- Password: mary
+
+---
+
+## 💻 Installation
+1. Clone the repository
+2. Import the database
+3. Configure the database connection in `conexion.php`
+4. Run Apache and MySQL using XAMPP
+5. Open `http://localhost/sistema-restaurante`
+
+---
+
+## 👨‍💻 Author
 Jhon Ever Mosquera Palacios
