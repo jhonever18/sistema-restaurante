@@ -24,6 +24,15 @@ Sistema web desarrollado en PHP y MariaDB para la gestión de un restaurante.
 1. Crear una base de datos llamada `restaurante`
 2. Importar el archivo `database/restaurante.sql`
 
+## 🔑 Credenciales de prueba
+Usuario: admin
+Gmail: admin@gmail.com
+Contraseña: 123
+
+Usuario: cajero
+Gmail: maria@gmail.com
+Contraseña: mary
+
 ## 💻 Instalación
 
 1. Clonar el repositorio
