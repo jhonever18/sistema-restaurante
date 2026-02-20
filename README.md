@@ -41,4 +41,4 @@ Contraseña: mary
 4. Ejecutar en servidor local (XAMPP)
 
 ## 👨‍💻 Autor
-Jhon Ever
+Jhon Ever Mosquera Palacios
